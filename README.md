@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://micaelil.com">
-    <img src="https://img.shields.io/badge/MY Website-%23E4405F.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
+    <img src="https://img.shields.io/badge/MY Website-%23E4405F.svg?&style=for-the-badge&logo=website&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
 </p>
